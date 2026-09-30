@@ -32,7 +32,7 @@
 
 
 
-> [!MEMO]
+> [!NOTE]
 > expense, trip등의 모델 설계와 백엔드 API 사용방법은 (lib/api/how to use.md)[https://github.com/wannabb/tripledger/blob/main/lib/api/how%20to%20use.md]를 참고해주세용
 
 
