@@ -10,7 +10,7 @@
  - 각자 Flutter와 FireBase 활용한 실습을 통한 개인 공부 필요.
 
 ## 2. 역할 분담 (Role Assignment)
- - **미정**
+ 
 
 ## 4. 협업 방식 및 일정 관리
  - 코드 협업: `GitHub`
